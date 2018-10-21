@@ -19,7 +19,10 @@ object Ex13ScalarProduct{
     println(scalarProduct(c, a))
   }
 
-
+/*
+Initialize a new set, then add an element to the set.
+Afterwards, check wether the set contains an element (true/false) and print the answer
+ */
 
 }
 
