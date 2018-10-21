@@ -11,3 +11,5 @@ object Ex03ReadLine {
   }
 
 }
+
+/* Next: calc square of a number n and radius of the circle whose perimeter is n */

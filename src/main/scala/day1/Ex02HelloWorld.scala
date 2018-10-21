@@ -16,3 +16,5 @@ object Ex02HelloWorld {
 
   }
 }
+
+/* Next: Ex3: read a line and print it */

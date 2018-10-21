@@ -34,4 +34,6 @@ object Ex05Block{
 
   }
 
+
+  //Next: Check if n is even and give it's factorial
 }

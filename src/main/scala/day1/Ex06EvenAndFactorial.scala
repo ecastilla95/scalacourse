@@ -21,5 +21,5 @@ object Ex06EvenAndFactorial{
 
   }
 
-}
+} //Next: ask for the capital of Madagascar until the answer is correct
 

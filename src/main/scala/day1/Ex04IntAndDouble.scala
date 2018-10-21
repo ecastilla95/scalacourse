@@ -16,3 +16,5 @@ object Ex04IntAndDouble {
   }
 
 }
+
+// Next: create a block using {}
